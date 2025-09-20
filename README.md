@@ -1,6 +1,6 @@
 # Hey What's up?
 
-My name is **Ahmed Galal** and I'm a **Junior Fullstack .NET Developer**, passionate about coding and interested in competitive programming.
+My name is **Ahmed Galal** and I'm a **Junior Full-stack .NET Developer**, passionate about coding and interested in competitive programming.
 
 ## Connect with me
 
